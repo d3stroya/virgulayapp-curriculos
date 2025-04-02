@@ -1,15 +1,16 @@
 {
   "competenciasEspecificas": [
-    "1. Resolver problemas científicos abordables en el ámbito escolar a partir de trabajos de investigación de carácter experimental.",
-    "2. Analizar situaciones problemáticas reales utilizando la lógica científica y explorando las posibles consecuencias de las soluciones propuestas para afrontarlas",
-    "3. Utilizar el conocimiento científico como instrumento del pensamiento crítico, interpretando y comunicando mensajes científicos, desarrollando argumentaciones y accediendo a fuentes fiables, para distinguir la información contrastada de los bulos y opiniones.",
-    "4. Justificar la validez del modelo científico como producto dinámico que se va revisando y reconstruyendo bajo la influencia del contexto social e histórico, atendiendo a la importancia de la ciencia en el avance de las sociedades, así como a los riesgos de un uso inadecuado o interesado de los conocimientos científicos y a sus limitaciones.",
-    "5. Adoptar hábitos de vida saludable basados en el conocimiento del funcionamiento del propio cuerpo, y de los peligros del uso y abuso de determinadas prácticas y del consumo de algunas sustancias.",
-    "6. Identificar y aceptar la sexualidad personal, y respetar la variedad de identidades de género y de orientaciones sexuales existentes, en base al conocimiento del cuerpo humano y del propio cuerpo.",
-    "7. Actuar con responsabilidad participando activamente en la conservación de todas las formas de vida y del planeta en base al conocimiento de los sistemas biológicos y geológicos",
-    "8. Utilizar el conocimiento geológico básico sobre el funcionamiento del planeta Tierra como sistema, con el fin de analizar su impacto sobre las poblaciones y proponer y valorar actuaciones de previsión e intervención.",
-    "9. Analizar e interpretar los principales hitos de la historia del planeta Tierra y los principales procesos evolutivos de los sistemas naturales, atendiendo a las magnitudes del tiempo geológico implicadas.",
-    "10. Adoptar hábitos de comportamiento en la actividad cotidiana responsables con el entorno, aplicando criterios científicos y evitando o minimizando el impacto medioambiental.",
-    "11. Proponer soluciones realistas basadas en el conocimiento científico ante problemas de naturaleza ecosocial a nivel local y global, argumentar su idoneidad y actuar en consecuencia."
+    "1. Resolver problemas científicos abordables en el ámbito escolar a partir de trabajos de investigación de carácter experimental. CCL, CTEM, CD, CPSAA.",
+    "2. Analizar situaciones problemáticas reales utilizando la lógica científica y explorando las posibles consecuencias de las soluciones propuestas para afrontarlas. CTEM, CD, CPSAA, CC.",
+    "3.Utilizar el conocimiento científico como instrumento del pensamiento crítico, interpretando y comunicando mensajes científicos, desarrollando argumentaciones y accediendo a fuentes fiables, para distinguir la información contrastada de los bulos y opiniones. CCL, CP, CTEM.",
+    "4. Justificar la validez del modelo científico como producto dinámico que se va revisando y reconstruyendo bajo la influencia del contexto social e histórico, atendiendo a la importancia de la ciencia en el avance de las sociedades, así como a los riesgos de un uso inadecuado o interesado de los conocimientos científicos y a sus limitaciones. CTEM, CC, CCEC.",
+    "5 Adoptar hábitos de vida saludable basados en el conocimiento del funcionamiento del propio cuerpo, y de los peligros del uso y abuso de determinadas prácticas y del consumo de algunas sustancias. CTEM, CC, CPSAA.",
+    "6 Identificar y aceptar la sexualidad personal, y respetar la variedad de identidades de género y de orientaciones sexuales existentes, en base al conocimiento del cuerpo humano y del propio cuerpo. CTEM, CPSAA, CC.",
+    "7 Actuar con responsabilidad participando activamente en la conservación de todas las formas de vida y del planeta en base al conocimiento de los sistemas biológicos y geológicos. CTEM, CPSAA, CC, CE, CCEC.",
+    "8 Utilizar el conocimiento geológico básico sobre el funcionamiento del planeta Tierra como sistema, con el fin de analizar su impacto sobre las poblaciones y proponer y valorar actuaciones de previsión e intervención. CTEM, CPSAA, CC, CE, CCEC.",
+    "9 Analizar e interpretar los principales hitos de la historia del planeta Tierra y los principales procesos evolutivos de los sistemas naturales, atendiendo a las magnitudes del tiempo geológico implicadas. CTEM, CPSAA, CC, CE, CCEC.",
+    "10 Adoptar hábitos de comportamiento en la actividad cotidiana responsables con el entorno, aplicando criterios científicos y evitando o minimizando el impacto medioambiental. CTEM, CPSAA, CC, CE.",
+    "11 Proponer soluciones realistas basadas en el conocimiento científico ante problemas de naturaleza ecosocial a nivel local y global, argumentar su idoneidad y actuar en consecuencia. CCL, CTEM, CC, CE."
+
     ]
 }
